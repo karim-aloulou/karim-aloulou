@@ -4,7 +4,7 @@
 
 <img  align="right" width='400' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="kimou6055" /></a> 
 
-- 🔭 I’m currently working on [FiscaBot](https://github.com/karim-aloulou/FiscaBot)
+- 🔭 I’m currently working on [Sign Language on GAP8](https://github.com/karim-aloulou/Sign-Language-on-GAP8-Embedded-card)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
