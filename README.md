@@ -1,4 +1,4 @@
-![logo](https://github.com/karim-aloulou/My-Bio/blob/main/Linkedin%20Karim%20Aloulou.png)
+![logo](https://github.com/karim-aloulou/My-Bio/blob/main/Linkedin%20Karim%20Aloulou%20(2).png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimou6055&label=Profile%20views&color=0e75b6&style=flat" alt="kimou6055" /> </p>
 
