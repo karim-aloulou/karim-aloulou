@@ -1,7 +1,7 @@
-# 🚀 Karim Aloulou — AI Engineer | LLMs | Edge AI | MLOps
+# 🚀 Karim Aloulou — AI Engineer | LLMs | Edge AI | AIOps
 
 <p align="center">
-  <img src="https://github.com/karim-aloulou/My-Bio/blob/main/Linkedin%20Karim%20Aloulou%20(2).png" width="200">
+  <img src="https://github.com/karim-aloulou/My-Bio/blob/main/Linkedin%20Karim%20Aloulou%20(2).png" width="500">
 </p>
 
 <p align="center">
@@ -72,15 +72,15 @@ Experiments with on-device AI, quantized models, and OCR pipelines.
 
 ## 🔹 GitHub Stats
 
-<p>
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-aloulou&show_icons=true&layout=compact" />
-</p>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <!-- Left -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-aloulou&show_icons=true&layout=compact" width="48%"/>
 
-<p>
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=karim-aloulou&show_icons=true" />
-</p>
+  <!-- Right -->
+  <img src="https://github-readme-stats.vercel.app/api?username=karim-aloulou&show_icons=true" width="48%"/>
+</div>
 
-<br><br><br><br>
+<br><br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-aloulou" />
@@ -91,7 +91,7 @@ Experiments with on-device AI, quantized models, and OCR pipelines.
 ## 🔹 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/karim-aloulou-838459241/" target="_blank">
+  <a href="https://www.linkedin.com/in/karim-a-838459241/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
