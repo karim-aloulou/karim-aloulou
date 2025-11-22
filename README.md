@@ -1,4 +1,5 @@
-# 🚀 Karim Aloulou — AI Engineer | LLMs | Edge AI | AIOps
+
+# 🚀 **Karim Aloulou — AI Engineer | LLM Systems | Edge AI | AIOps**
 
 <p align="center">
   <img src="https://github.com/karim-aloulou/My-Bio/blob/main/Linkedin%20Karim%20Aloulou%20(2).png" width="500">
@@ -10,85 +11,98 @@
 
 ---
 
-## 🔹 About Me
+# 🔹 **About Me**
 
-AI Engineer focused on **LLMs, Edge AI, and scalable AI systems**.
-I build **real-world GenAI products** with clean architectures, production-grade pipelines, and measurable value — not academic prototypes.
+AI Engineer specialized in **LLM systems, scalable inference pipelines, and Edge AI**.
+I focus on building **production-grade GenAI architectures**—optimized, observable, secure, and maintainable.
+Everything I work on is grounded in **performance, clarity, and real-world usage**.
 
-Current focus areas:
+### **Current specialties**
 
-* **LLM agents, retrieval, and conversational systems**
-* **Embedded AI (GAP8 / low-power microcontrollers)**
-* **MLOps & scalable inference on Azure**
+* LLM agents, streaming, retrieval, and tool orchestration
+* Edge AI on GAP8 / microcontrollers (quantization, latency optimization)
+* MLOps & real-time inference deployments (Azure-focused)
 
 ---
 
-## 🔹 Featured Projects (the ones that actually matter)
+# 🔹 **Featured Work (Selected)**
 
-### **✋ Sign Language Recognition on GAP8 (Embedded AI)**
+### **✋ Sign Language Recognition on GAP8 — Embedded AI**
 
-Low-power deep-learning architecture deployed on a GAP8 board.
+Ultra-low-power CNN running on a GAP8 microcontroller with custom data pipeline.
 ➡️ [https://github.com/karim-aloulou/Sign-Language-on-GAP8-Embedded-card](https://github.com/karim-aloulou/Sign-Language-on-GAP8-Embedded-card)
 
-### **🤖 LLM-based Chatbots (Azure OpenAI + Flask)**
+### **🤖 Enterprise LLM Chatbot — Azure OpenAI + Flask**
 
-Production-ready conversational agent with Redis caching and Azure AI Search.
+Production-ready conversational system with:
 
-### **📡 Vision, OCR & Real-Time ML**
+* Redis caching
+* Azure AI Search retrieval
+* Multi-level prompt orchestration
+* Live streaming + fallback routing
 
-Experiments with on-device AI, quantized models, and OCR pipelines.
+### **📡 Vision & OCR for Real-Time Systems**
 
----
-
-## 🔹 What I’m Working On
-
-* Building **LLM agents** with real retrieval, streaming, and tool use
-* Improving **AI latency reduction** using quantization + caching
-* Expanding **Edge AI deployments** for constrained hardware
+Experiments with edge-friendly OCR pipelines, quantized models, and on-device inference.
 
 ---
 
-## 🔹 Skills That Matter
+# 🔹 **What I’m Working On Now**
 
-### **AI & ML**
+* Designing **LLM agents** with structured tools, RAG, and streaming
+* Reducing AI latency via quantization + caching + concurrency
+* Expanding **Edge AI deployments** and hardware-aware model design
 
-`Python` • `PyTorch` • `TensorFlow` • `Scikit-Learn` • `OpenCV`
-`LLMs` • `Prompt Engineering` • `RAG` • `Edge AI` • `Quantization`
+---
+
+# 🔹 **Technical Skills**
+
+### **AI & Machine Learning**
+
+`Python` · `PyTorch` · `TensorFlow` · `OpenCV`
+`LLMs` · `Prompt Engineering` · `RAG` · `Quantization` · `Edge AI`
 
 ### **Backend / Systems**
 
-`Flask` • `FastAPI` • `Node.js` • `Express` • `Docker` • `Git`
-`Azure (AI Search, App Service, AKS, OpenAI, CosmosDB)`
+`Flask` · `FastAPI` · `Node.js` · `Express` · `Docker` · `Git`
+`Azure` (AI Search, App Service, CosmosDB, AKS, Azure OpenAI)
 
-### **Data & Analysis**
+### **Data & Analytics**
 
-`Pandas` • `Numpy` • `Seaborn` • `Matplotlib` • `MongoDB` • `MySQL`
+`Pandas` · `Numpy` · `Matplotlib` · `MongoDB` · `MySQL`
 
-### **Embedded / Low-level**
+### **Embedded / Low-Level**
 
-`C` • `C++` • `GAP8` • `Arduino`
+`C` · `C++` · `GAP8` · `Arduino`
 
 ---
 
-## 🔹 GitHub Stats
+# 🔹 **GitHub Highlights**
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <!-- Left -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-aloulou&show_icons=true&layout=compact" width="48%"/>
-
-  <!-- Right -->
-  <img src="https://github-readme-stats.vercel.app/api?username=karim-aloulou&show_icons=true" width="48%"/>
-</div>
-
-<br><br>
+## ✔️ Advanced Contribution Graph (cleaner than streak stats)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-aloulou" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karim-aloulou&radius=12&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🔹 Connect with Me
+## ✔️ Stats (simplified, clean, professional)
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karim-aloulou&show_icons=true&hide_border=true&theme=transparent"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-aloulou&layout=compact&hide_border=true&theme=transparent"/>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karim-aloulou/karim-aloulou/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🔹 **Connect**
 
 <p>
   <a href="https://www.linkedin.com/in/karim-a-838459241/" target="_blank">
@@ -96,5 +110,7 @@ Experiments with on-device AI, quantized models, and OCR pipelines.
   </a>
 </p>
 
-📩 Email: **[karim.aloulou1708@outlook.com](mailto:karim.aloulou1708@outlook.com)**
+📩 **[karim.aloulou1708@outlook.com](mailto:karim.aloulou1708@outlook.com)**
+
+
 
